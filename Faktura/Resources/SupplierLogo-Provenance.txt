@@ -1,0 +1,15 @@
+Supplier logo: MK. | Matěj Kratochvíl
+
+Copied unchanged on 2026-10-31 with the owner's authorization from:
+personal-website-v3/output/logo/mk-color.pdf
+
+SHA-256: 485cf2603a2825a0fd606e8e1d707420fc86ec07d4da360ec657058735de6163
+
+The source README identifies this as vector outlines based on Manrope weight 650,
+with dark lettering (#222420) and a blue dot (#214CE4) for light backgrounds.
+No font installation is needed. Preserve the original aspect ratio and supplied
+clear space. The corresponding Manrope OFL notice is included alongside the PDF.
+
+This mark identifies the supplier in this personal, single-company application.
+The separate Zapsáno mark identifies the application. Runtime loading uses only
+the application's bundled resources; the source website is not a dependency.
